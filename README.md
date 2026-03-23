@@ -2,10 +2,9 @@
 ![Banner de Briy1t](https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=150&section=header&text=Welcome%20to%20my%20Terminal&fontSize=50&fontColor=58a6ff)
 | **briy1t@terminal: ~** |
 | :--- |
-| briy1t@ASIR:~$ sudo access --database --user=Briy1t ----------------------------------------------------------------------------------------|
+| briy1t@ASIR:~$ sudo access --database --user=Briy1t --------echo "¡Hola! Soy Briyit (Briy1t) "---------------------------------------------------------------------------|
 
-                  
-# ¡Hola! Soy Briyit (Briy1t) 
+
 **IT Support & Data Analyst Junior | Cloud & Linux Enthusiast | Google Certified | Futura Estudiante de ASIR**
 
 Apasionada por la administración de sistemas, la seguridad informática y el análisis de datos. Actualmente enfocada en dominar entornos Linux y arquitecturas en la nube (AWS).
