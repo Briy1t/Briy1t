@@ -1,15 +1,25 @@
-| **briy1t@terminal: ~** |
-| :--- |
-| briy1t@ASIR:~$ sudo access --user=Briy1t` <br> `+ [ ACCESS ALLOWED ]` <br> `+ [ STATUS: ONLINE ]`----------------------------------------------------------------------|
-![Banner de Briy1t](https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=150&section=header&text=Welcome%20to%20my%20Terminal&fontSize=50&fontColor=58a6ff)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=150&section=header&text=Welcome%20to%20my%20Terminal&fontSize=50&fontColor=58a6ff" />
+</p>
 
-Soy Briyit 
+<table align="center">
+  <tr>
+
+</table>
+
+<p align="center">
+  <b>IT Support & Data Analyst Junior | Cloud & Linux Enthusiast | Google Certified</b>
+</p>
+
+# Soy Briyit 
 **IT Support & Data Analyst Junior | Cloud & Linux Enthusiast | Google Certified | Futura Estudiante de ASIR**
 
 Apasionada por la administración de sistemas, la seguridad informática y el análisis de datos. Actualmente enfocada en dominar entornos Linux y arquitecturas en la nube (AWS).
 
-![Racha de Briy1t](https://github-readme-streak-stats.herokuapp.com/?user=Briy1t&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briy1t&theme=tokyonight&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff" alt="Racha de Briy1t" />
+</p>
 
 ---
 
@@ -20,17 +30,22 @@ Apasionada por la administración de sistemas, la seguridad informática y el an
  
 - ☁️ **Cloud:** Especialización en infraestructuras **AWS**.
 
+
 ---
 
+
+<div align="center">
+
 ## *STACK TECNOLÓGICO*
-
-
 
 | ADMINISTRACIÓN | SEGURIDAD | ANÁLISIS |
 | :---: | :---: | :---: |
 | ![LINUX](https://img.shields.io/badge/LINUX-161b22?style=for-the-badge&logo=linux&logoColor=58a6ff) | ![SECURITY](https://img.shields.io/badge/SEGURIDAD-161b22?style=for-the-badge&logo=fortinet&logoColor=4493f8) | ![PYTHON](https://img.shields.io/badge/PYTHON-161b22?style=for-the-badge&logo=python&logoColor=388bfd) |
 | ![BASH](https://img.shields.io/badge/BASH-161b22?style=for-the-badge&logo=gnu-bash&logoColor=58a6ff) | ![AWS](https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazon-aws&logoColor=4493f8) | ![SQL](https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=postgresql&logoColor=388bfd) |
 | ![WINDOWS](https://img.shields.io/badge/WINDOWS-161b22?style=for-the-badge&logo=windows&logoColor=58a6ff) | ![COMPLIANCE](https://img.shields.io/badge/RGPD-161b22?style=for-the-badge&logo=shield&logoColor=4493f8) | ![TABLEAU](https://img.shields.io/badge/TABLEAU-161b22?style=for-the-badge&logo=tableau&logoColor=388bfd) |
+
+</div>
+
 
 
 ---
