@@ -18,7 +18,7 @@
 Apasionada por la administración de sistemas, la seguridad informática y el análisis de datos. Actualmente enfocada en dominar entornos Linux y arquitecturas en la nube (AWS).
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briy1t&theme=tokyonight&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff" alt="Racha de Briy1t" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briy1t&theme=tokyonight&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&v=2" alt="Racha de Briy1t" />
 </p>
 
 ---
