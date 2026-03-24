@@ -21,7 +21,6 @@ Apasionada por la administración de sistemas, la seguridad informática y el an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briy1t&theme=tokyonight&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff" alt="Racha de Briy1t" />
 </p>
 
-
 ---
 
 - 🐧 **Sistemas:** Dominio de entornos **Linux (Ubuntu/Debian)** y **Bash Scripting**.
