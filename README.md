@@ -23,12 +23,13 @@ Apasionada por la administración de sistemas, la seguridad informática y el an
 
 ---
 
-- 🐧 **Sistemas:** Dominio de entornos **Linux (Ubuntu/Debian)** y **Bash Scripting**.
+-  **Sistemas:** Dominio de entornos **Linux (Ubuntu/Debian)** y **Bash Scripting**.
 
-[Proyecto Alpha](Proyecto_Alpha.md): Un proyecto práctico de administración Linux: creación de estructura, usuarios, permisos, scripts, análisis de logs, procesos, 
-    servicios y almacenamiento del sistema.
- 
-- ☁️ **Cloud:** Especialización en infraestructuras **AWS**.
+    - [Proyecto Alpha](Proyecto_Alpha.md): Un proyecto práctico de administración Linux: creación de estructura, usuarios, permisos, scripts, análisis de logs, procesos, 
+        servicios y almacenamiento del sistema.
+    - [Operación centinela](Operacion_Centinela.md): Proyecto práctico de auditoría Linux: archivos, permisos, usuarios, procesos y seguridad
+   
+-  **Cloud:** Especialización en infraestructuras **AWS**.
 
 
 ---
