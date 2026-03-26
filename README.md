@@ -1,19 +1,11 @@
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=150&section=header&text=Welcome%20to%20my%20Terminal&fontSize=50&fontColor=58a6ff" />
+  <img src="banner_briyit.png" width="100%" alt="Banner de Briyit">
 </p>
-
-<table align="center">
-  <tr>
-
-</table>
-
 <p align="center">
   <b>IT Support & Data Analyst Junior | Cloud & Linux Enthusiast | Google Certified</b>
 </p>
-
-# Soy Briyit 
-**IT Support & Data Analyst Junior | Cloud & Linux Enthusiast | Google Certified | Futura Estudiante de ASIR**
 
 Apasionada por la administración de sistemas, la seguridad informática y el análisis de datos. Actualmente enfocada en dominar entornos Linux y arquitecturas en la nube (AWS).
 
@@ -64,10 +56,6 @@ Apasionada por la administración de sistemas, la seguridad informática y el an
 - [linux-learning-notes](https://github.com/Briy1t/linux-learning-notes)
 - [AWS-Learning-Path](https://github.com/Briy1t/AWS-Learning-Path)
 - [Data-Analytics-learning-path](https://github.com/Briy1t/Data-Analytics-learning-path)
-
- 
-
-
 
 
 ### LICENCIA Y USO
