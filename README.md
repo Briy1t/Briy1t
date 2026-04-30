@@ -22,7 +22,9 @@ Apasionada por la administración de sistemas, la seguridad informática y el an
     - [Operación centinela](Operacion_Centinela.md): Proyecto práctico de auditoría Linux: archivos, permisos, usuarios, procesos y seguridad
    
 -  **Cloud:** Especialización en infraestructuras **AWS**.
-
+  
+    - [Fortress_IAM.md](Fortress_IAM.md)
+    - [Versioning_Ciclo_de_Vida_S3.md](Versioning_Ciclo_de_Vida_S3.md)
 
 ---
 
