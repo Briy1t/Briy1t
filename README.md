@@ -14,7 +14,7 @@ Apasionada por la administración de sistemas, la seguridad informática y el an
 </p>
 
 ---
-- [EC2_Hardened_Node_Deployment.md](EC2_Hardened_Node_Deployment.md)
+- [EC2_Hardened_Node_Deployment](EC2_Hardened_Node_Deployment.md)
 Proyecto  Linux en AWS: instalación y hardening de Apache, monitoreo, creación de AMI, plantillas de lanzamiento y Auto Scaling Group. Incluye script de autocuración y despliegue de CV digital.
 
 
