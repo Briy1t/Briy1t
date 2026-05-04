@@ -14,20 +14,20 @@ Apasionada por la administración de sistemas, la seguridad informática y el an
 </p>
 
 ---
-- [EC2_Hardened_Node_Deployment](EC2_Hardened_Node_Deployment.md)
+- [EC2_Hardened_Node_Deployment](https://github.com/Briy1t/AWS-Learning-Path/blob/main/EC2_Hardened_Node_Deployment.md)
 Proyecto  Linux en AWS: instalación y hardening de Apache, monitoreo, creación de AMI, plantillas de lanzamiento y Auto Scaling Group. Incluye script de autocuración y despliegue de CV digital.
 
 
 -  **Sistemas:** Dominio de entornos **Linux (Ubuntu/Debian)** y **Bash Scripting**.
 
-    - [Proyecto Alpha](Proyecto_Alpha.md): Un proyecto práctico de administración Linux: creación de estructura, usuarios, permisos, scripts, análisis de logs, procesos, 
+    - [Proyecto Alpha](https://github.com/Briy1t/linux-learning-notes/blob/main/Proyecto_Alpha.md): Un proyecto práctico de administración Linux: creación de estructura, usuarios, permisos, scripts, análisis de logs, procesos, 
         servicios y almacenamiento del sistema.
-    - [Operación centinela](Operacion_Centinela.md): Proyecto práctico de auditoría Linux: archivos, permisos, usuarios, procesos y seguridad
+    - [Operación centinela]([Operacion_Centinela.md](https://github.com/Briy1t/linux-learning-notes/blob/main/Operacion_Centinela.md)): Proyecto práctico de auditoría Linux: archivos, permisos, usuarios, procesos y seguridad
    
 -  **Cloud:** Especialización en infraestructuras **AWS**.
   
-    - [Fortress_IAM.md](Fortress_IAM.md)
-    - [Versioning_Ciclo_de_Vida_S3.md](Versioning_Ciclo_de_Vida_S3.md)
+    - [Fortress_IAM.md]([Fortress_IAM.md](https://github.com/Briy1t/AWS-Learning-Path/blob/main/Fortress_IAM.md))
+    - [Versioning_Ciclo_de_Vida_S3.md](https://github.com/Briy1t/AWS-Learning-Path/blob/main/Versioning_Ciclo_de_Vida_S3.md)
 
 ---
 
