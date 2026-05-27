@@ -12,6 +12,13 @@ Apasionada por la administración de sistemas, la seguridad informática y el an
 
 
 ---
+
+## Proyecto Técnicos 
+
+- [ZENIT – Sistema de Autogestión Emocional](https://github.com/Briy1t/zenit)
+Aplicación completa desarrollada con FastAPI + SQLite + JS, que incluye autenticación con hashing, dashboard diario/mensual, diario personal y animación dinámica.
+Actualmente en proceso de despliegue en AWS.
+
 - [EC2_Hardened_Node_Deployment](https://github.com/Briy1t/AWS-Learning-Path/blob/main/EC2_Hardened_Node_Deployment.md)
 Proyecto  Linux en AWS: instalación y hardening de Apache, monitoreo, creación de AMI, plantillas de lanzamiento y Auto Scaling Group. Incluye script de autocuración y despliegue de CV digital.
 
@@ -23,6 +30,8 @@ Proyecto  Linux en AWS: instalación y hardening de Apache, monitoreo, creación
     - [Operación centinela]([Operacion_Centinela.md](https://github.com/Briy1t/linux-learning-notes/blob/main/Operacion_Centinela.md)): Proyecto práctico de auditoría Linux: archivos, permisos, usuarios, procesos y seguridad
    
 -  **Cloud:** Especialización en infraestructuras **AWS**.
+
+-  Documentación técnica propia
   
     - [Fortress_IAM.md]([Fortress_IAM.md](https://github.com/Briy1t/AWS-Learning-Path/blob/main/Fortress_IAM.md))
     - [Versioning_Ciclo_de_Vida_S3.md](https://github.com/Briy1t/AWS-Learning-Path/blob/main/Versioning_Ciclo_de_Vida_S3.md)
