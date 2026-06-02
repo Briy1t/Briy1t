@@ -4,7 +4,7 @@
   <img src="banner_briyit.png" width="100%" alt="Banner de Briyit">
 </p>
 <p align="center">
-  <b>IT Support & Data Analyst Junior | Cloud & Linux Enthusiast | Google Certified</b>
+  <b> Junior IT Technician | Linux & Cloud Enthusiast | AWS & Google Certified d</b>
 </p>
 
 Apasionada por la administración de sistemas, la seguridad informática y el análisis de datos. Actualmente enfocada en dominar entornos Linux y arquitecturas en la nube (AWS).
