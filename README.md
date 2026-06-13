@@ -40,10 +40,6 @@ Proyecto  Linux en AWS: instalación y hardening de Apache, monitoreo, creación
 
 ---
 
-## Portfolio
-Puedes ver mi portfolio profesional aquí: [Click](https://portafolio-605379117764.europe-west1.run.app/)
-
-
 
 --- 
 
