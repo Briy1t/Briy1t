@@ -18,6 +18,8 @@ Apasionada por la administración de sistemas, la seguridad informática y el an
 - [ZENIT – Sistema de Autogestión Emocional](https://github.com/Briy1t/zenit)
 Aplicación completa desarrollada con FastAPI + SQLite + JS, que incluye autenticación con hashing, dashboard diario/mensual, diario personal y animación dinámica.
 Actualmente en proceso de despliegue en AWS.
+  - Actualmente desplegada en Google Cloud Run:  [Zenit](https://zenit-605379117764.europe-west1.run.app/)
+  - (Ejecución estable dentro del Free Tier, con CI/CD automático desde GitHub.)
 
 - [EC2_Hardened_Node_Deployment](https://github.com/Briy1t/AWS-Learning-Path/blob/main/EC2_Hardened_Node_Deployment.md)
 Proyecto  Linux en AWS: instalación y hardening de Apache, monitoreo, creación de AMI, plantillas de lanzamiento y Auto Scaling Group. Incluye script de autocuración y despliegue de CV digital.
@@ -38,6 +40,12 @@ Proyecto  Linux en AWS: instalación y hardening de Apache, monitoreo, creación
 
 ---
 
+## Portfolio
+Puedes ver mi portfolio profesional aquí:[](https://portafolio-605379117764.europe-west1.run.app/)
+
+
+
+--- 
 
 <div align="center">
 
