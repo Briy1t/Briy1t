@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_briyit.png" width="100%" alt="Banner de Briyit">
+  <img src="banner_briy1t.png" width="100%" alt="Banner de Briyit">
 </p>
 
 <p align="center">
