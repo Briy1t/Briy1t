@@ -1,81 +1,59 @@
-
-
 <p align="center">
   <img src="banner_briyit.png" width="100%" alt="Banner de Briyit">
 </p>
+
 <p align="center">
-  <b>Junior IT & Systems Technician | Linux & AWS Cloud | Security Fundamentals Certified d</b>
+  <b>Junior Software Developer (DAM) | Python & JavaScript | Cloud & Systems Enthusiast</b>
 </p>
 
-Apasionada por la administración de sistemas, la seguridad informática y el análisis de datos. Actualmente enfocada en dominar entornos Linux y arquitecturas en la nube (AWS).
+<p align="center">
+   ¡Hola! Soy <b>Briyit Rodriguez</b>. Actualmente cursando el ciclo superior de <b>Desarrollo de Aplicaciones Multiplataforma (DAM)</b>.
+  Apasionada por el diseño y construcción de software robusto, APIs eficientes y la arquitectura de aplicaciones. Combino mi base sólida en administración de sistemas y entornos cloud con el desarrollo moderno de software.
+</p>
 
-
-
----
-
-## Proyecto Técnicos 
-
-- [ZENIT – Sistema de Autogestión Emocional](https://github.com/Briy1t/zenit)
-Aplicación completa desarrollada con FastAPI + SQLite + JS, que incluye autenticación con hashing, dashboard diario/mensual, diario personal y animación dinámica.
-Actualmente en proceso de despliegue en AWS.
-  - Actualmente desplegada en Google Cloud Run:  [Zenit](https://zenit-605379117764.europe-west1.run.app/)
-  - (Ejecución estable dentro del Free Tier, con CI/CD automático desde GitHub.)
-
-- [EC2_Hardened_Node_Deployment](https://github.com/Briy1t/AWS-Learning-Path/blob/main/EC2_Hardened_Node_Deployment.md)
-Proyecto  Linux en AWS: instalación y hardening de Apache, monitoreo, creación de AMI, plantillas de lanzamiento y Auto Scaling Group. Incluye script de autocuración y despliegue de CV digital.
-
-
--  **Sistemas:** Dominio de entornos **Linux (Ubuntu/Debian)** y **Bash Scripting**.
-
-    - [Proyecto Alpha](https://github.com/Briy1t/linux-learning-notes/blob/main/Proyecto_Alpha.md): Un proyecto práctico de administración Linux: creación de estructura, usuarios, permisos, scripts, análisis de logs, procesos, 
-        servicios y almacenamiento del sistema.
-    - [Operación centinela]([Operacion_Centinela.md](https://github.com/Briy1t/linux-learning-notes/blob/main/Operacion_Centinela.md)): Proyecto práctico de auditoría Linux: archivos, permisos, usuarios, procesos y seguridad
-   
--  **Cloud:** Especialización en infraestructuras **AWS**.
-
--  Documentación técnica propia
-  
-    - [Fortress_IAM.md]([Fortress_IAM.md](https://github.com/Briy1t/AWS-Learning-Path/blob/main/Fortress_IAM.md))
-    - [Versioning_Ciclo_de_Vida_S3.md](https://github.com/Briy1t/AWS-Learning-Path/blob/main/Versioning_Ciclo_de_Vida_S3.md)
+<p align="center">
+   <b><a href="https://portafolio-605379117764.europe-west1.run.app/" target="_blank"> Visita mi Portafolio Web</a></b>
+</p>
 
 ---
 
-## Portafolio : [aqui](https://portafolio-605379117764.europe-west1.run.app/)
+## Proyectos Destacados
 
---- 
+* **[Supporting Enterprise (CRM & Plataforma Interna)](https://github.com/Briy1t/supporting-service-platform)**
+  * *Stack:* FastAPI, Python, SQLAlchemy, PostgreSQL, Alembic, React, Tailwind CSS.
+  * *Descripción:* Plataforma empresarial modular diseñada para la gestión integral de clientes, contratos y personal técnico. Incluye tableros Kanban y pasarela de endpoints para la comunicación con la web corporativa. *(Repositorio actualmente en proceso de documentación para su apertura).*
 
-<div align="center">
+* **[ZENIT – Sistema de Autogestión Emocional](https://github.com/Briy1t/zenit)**
+  * *Stack:* FastAPI, SQLite, JavaScript, Docker.
+  * *Descripción:* Aplicación web para el seguimiento del bienestar personal, con autenticación segura (hashing), dashboards interactivos y despliegue continuo en Google Cloud Run mediante CI/CD. La base de datos se encuentra pausada...
 
-## *STACK TECNOLÓGICO*
-
-| ADMINISTRACIÓN | SEGURIDAD | ANÁLISIS |
-| :---: | :---: | :---: |
-| ![LINUX](https://img.shields.io/badge/LINUX-161b22?style=for-the-badge&logo=linux&logoColor=58a6ff) | ![SECURITY](https://img.shields.io/badge/SEGURIDAD-161b22?style=for-the-badge&logo=fortinet&logoColor=4493f8) | ![PYTHON](https://img.shields.io/badge/PYTHON-161b22?style=for-the-badge&logo=python&logoColor=388bfd) |
-| ![BASH](https://img.shields.io/badge/BASH-161b22?style=for-the-badge&logo=gnu-bash&logoColor=58a6ff) | ![AWS](https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazon-aws&logoColor=4493f8) | ![SQL](https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=postgresql&logoColor=388bfd) |
-| ![WINDOWS](https://img.shields.io/badge/WINDOWS-161b22?style=for-the-badge&logo=windows&logoColor=58a6ff) | ![COMPLIANCE](https://img.shields.io/badge/RGPD-161b22?style=for-the-badge&logo=shield&logoColor=4493f8) | ![TABLEAU](https://img.shields.io/badge/TABLEAU-161b22?style=for-the-badge&logo=tableau&logoColor=388bfd) |
-
-</div>
-
-
+* **[EC2 Hardened Node & CV Deployment (AWS)](https://github.com/Briy1t/AWS-Learning-Path/blob/main/EC2_Hardened_Node_Deployment.md)**
+  * *Stack:* AWS (EC2, AMI, Auto Scaling), Linux, Apache.
+  * *Descripción:* Proyecto de infraestructura en la nube enfocado en la instalación y hardening de un servidor web Linux, automatización con scripts de autocuración, creación de AMIs y despliegue de mi CV digital.
 
 ---
 
-##  **CONECTEMOS**
- **[MI PERFIL DE LINKEDIN](https://www.linkedin.com/in/liset-rodriguez-astros/)**
+## Stack Tecnológico (Development & Systems)
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend & APIs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
+| **Frontend & UI** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Bases de Datos & Tools** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Cloud & Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 
 ---
 
-> ***"LA SEGURIDAD ES UN PROCESO, NO UN PRODUCTO."***
+## Repositorios de Aprendizaje
 
+* [AWS Learning Path](https://github.com/Briy1t/AWS-Learning-Path) - Notas y arquitecturas sobre servicios Cloud.
+* [Linux Learning Notes](https://github.com/Briy1t/linux-learning-notes) - Guías de administración y scripting en Bash.
 
-## Documentation
+---
 
-- [linux-learning-notes](https://github.com/Briy1t/linux-learning-notes)
-- [AWS-Learning-Path](https://github.com/Briy1t/AWS-Learning-Path)
-- [Data-Analytics-learning-path](https://github.com/Briy1t/Data-Analytics-learning-path)
+## Conectemos
 
+* **LinkedIn:** [Lisett Rodriguez Rodriguez](https://www.linkedin.com/in/liset-rodriguez-astros/)
+* **Email:** lisetrodriguezastros@gmail.com
 
-### LICENCIA Y USO
-*Este perfil y sus recursos están bajo la licencia MIT. Siéntete libre de usar la estructura para tu propio aprendizaje.*
-
-[![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-0D1117?style=flat-square&logo=opensourceinitiative&logoColor=58a6ff)](https://opensource.org/licenses/MIT)
+---
